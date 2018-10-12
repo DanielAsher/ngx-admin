@@ -71,6 +71,7 @@
     "ngx-echarts": "2.0.1",
     "normalize.css": "6.0.0",
     "pace-js": "1.0.2",
+    "realm": "^2.18.0",
     "roboto-fontface": "0.8.0",
     "rxjs": "^6.1.0",
     "rxjs-compat": "^6.1.0",
